@@ -10,7 +10,7 @@
 
 I'm an Information Systems Engineer (UTN) based in Rosario, Argentina, working as an Engineer at **[Teramot](https://teramot.com)**. I build data systems, backend services and applications on top of language models and AI agents, from the query engine and the protocol to the interface people actually use.
 
-I work AI-first: I explore early, prototype fast, measure honestly and keep only what holds up. Outside work, I co-founded **[Legios](https://legios.com.ar)** with [Valentín Torassa Colombero](https://github.com/ValentinTorassa), where we build developer tools and games.
+I work AI-first: I explore early, prototype fast, measure honestly and keep only what holds up. Outside work, [Valentín Torassa Colombero](https://github.com/ValentinTorassa) and I build developer tools and games together under the name **[Legios](https://legios.com.ar)**.
 
 I write about what I build, break and fix at **[solsoletti.com/blog](https://solsoletti.com/blog/)**.
 
@@ -37,7 +37,7 @@ Previously, I was an IT Intern at Argental, where I led **[Busquetti](https://bu
 
 ## Legios
 
-Developer tools and games I build with Valentín. Tools that look at what's already on disk before calling a model. *"Wrong memory is worse than no memory."* We're part of AWS Activate.
+Developer tools and games I build with Valentín. Tools that look at what's already on disk before calling a model. *"Wrong memory is worse than no memory."*
 
 - **cartographer** *(private, I lead it)*: charts a repo before anyone sails it. A deterministic symbolic context artifact plus a symbol index on tree-sitter and SQLite. Zero model tokens.
 - **pipeline** *(private, built by both of us)*: from an approved spec to a verified PR, with per-run isolation on ECS Fargate.
