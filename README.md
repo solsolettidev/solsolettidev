@@ -49,10 +49,6 @@ Developer tools and games I build with Valentín. Tools that look at what's alre
 - **[nats-trail](https://github.com/solsolettidev/nats-trail)**: agent-native observability for NATS and JetStream. A web UI, a CLI and an MCP server over one bounded query engine. Follow a `request_id` across four streams without opening four terminals, and let an agent look at production without being able to touch it. Published on [npm](https://www.npmjs.com/package/nats-trail), Apache-2.0. *[How it got there →](https://solsoletti.com/blog/a-flag-is-not-a-guarantee/)*
 - **[aeternum](https://github.com/solsolettidev/aeternum)**: a curated personal photo archive: gallery, collections, favorites and friends. React, Supabase and Playwright. **[Open the app →](https://www.aeternumarchive.com/)**
 
-### Contributions
-
-- **[motherduckdb/mcp-server-motherduck #117](https://github.com/motherduckdb/mcp-server-motherduck/pull/117)** *(in review)*: makes the DuckDB/MotherDuck MCP server speak MCP 2026-07-28, with an e2e regression test over raw JSON-RPC.
-
 ## Writing
 
 - **[Eight Rows, Not Twelve Million](https://docs.teramot.com/blog/eight-rows-not-twelve-million/)** · Teramot Engineering: the cache behind Teramot Beacon. Pull only the slice a question needs, and invalidate by source version instead of a TTL.
