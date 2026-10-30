@@ -108,6 +108,16 @@ Developer tools and games I build with Valentín. Tools that look at what's alre
   <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
 </p>
 
+## Certifications
+
+<p>
+  <a href="https://www.credly.com/badges/d67f79f9-74ad-4c68-a9f9-58418b8b474d/public_url">
+    <img src="https://images.credly.com/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png" alt="AWS Certified Cloud Practitioner" width="140" height="140" />
+  </a>
+</p>
+
+**AWS Certified Cloud Practitioner** · Amazon Web Services
+
 ## Education & languages
 
 - **Information Systems Engineering**, Universidad Tecnológica Nacional (UTN), 2021 – 2026
